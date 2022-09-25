@@ -1,0 +1,3 @@
+# ignore large citibike csv file
+citibike_data.csv
+Citibike_Data2.csv
